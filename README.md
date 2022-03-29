@@ -62,7 +62,7 @@ Teraz musimy umieścić wygenerowany wcześniej klucz w folderze `cert` pod nazw
 
 Mając wszystkie potrzebne rzeczy najpierw instalujemy potrzebne zależności:
 
-    npm run install
+    npm install
 
 Następnie uruchamiamy aplikację:
 
