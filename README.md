@@ -89,3 +89,5 @@ Kolejne kroki:
 Pamiętamy też aby zainstalować potrzebne paczki przez `Composer`:
 
     composer install
+    
+Uwaga! Aby uruchomić ten przykład trzeba dodać nowego użytkownika do Azure AD, skopiować jego ID i wkleić je w miejsce `<user_id>`.
