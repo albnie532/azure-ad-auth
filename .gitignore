@@ -1,3 +1,8 @@
 vendor
 composer.lock
-sdg
+
+# Signer
+signer/cert/*
+signer/node_modules
+.env
+package-lock.json
